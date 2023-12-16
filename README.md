@@ -1,6 +1,6 @@
-# Information Retrieval Term Project
+# Short News Text Clustering
 
-### Short News Text Clustering
+### Information Retrieval Term Project
 
 This is the project I did for my Information Retrival and Text Mining Course
 
